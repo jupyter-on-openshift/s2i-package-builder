@@ -1,0 +1,9 @@
+#!/bin/bash
+
+cat <<EOF
+This is a S2I builder for compiling packages.
+
+For details on using this S2I builder see:
+
+* https://github.com/jupyter-on-openshift/s2i-package-builder
+EOF
